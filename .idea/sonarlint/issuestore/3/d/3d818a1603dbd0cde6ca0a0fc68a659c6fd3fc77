@@ -1,0 +1,40 @@
+
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(——ë ùÿÿÿÿ8Ó´çè1J$d4003ca2-345b-4b18-9fca-881fbc20073b
+
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(êµ‰ùüÿÿÿÿ8×´çè1J$f75b4a91-6de2-46b1-8a7c-8001a0a41f07
+‹
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¯–æÛ8×´çè1J$6038b9eb-530e-4c88-874a-df0a79a0b1ff
+‹
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Û„ÁÊ8×´çè1J$3710b46e-1f33-4454-9337-40f7f0d7d1a9
+
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Œ‡™şÿÿÿÿ8×´çè1J$cdc20134-f5f8-4abf-9f69-a8c23c243cc4
+‹
+java:S5361 "HReplace this call to "replaceAll()" by a call to the "replace()" method.(ğÎçÿ8Ø´çè1J$5289e774-bdf6-4b87-95a8-e5641dbf0495
+
+java:S5361!"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ö¬‹éüÿÿÿÿ8Ø´çè1J$b70316ea-59a5-4014-ba7c-624e50a1e681
+
+java:S5361""HReplace this call to "replaceAll()" by a call to the "replace()" method.(º²œ¥øÿÿÿÿ8Ø´çè1J$c5776b82-2dd0-48a3-9fd9-c44019150ae7
+‹
+java:S5361#"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ĞØş8Ø´çè1J$8a9d8a14-0d97-43ea-969c-a09f4150d25a
+‹
+java:S5361$"HReplace this call to "replaceAll()" by a call to the "replace()" method.(½úĞ8Ø´çè1J$97d8365a-c764-4fc4-99a4-8472b1c7de40
+
+java:S5361%"HReplace this call to "replaceAll()" by a call to the "replace()" method.(òÓ²ÿÿÿÿÿ8Ù´çè1J$aab13bd6-5b20-44a2-86a8-f1672d0e9ffb
+
+java:S5361&"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÏßŒÛşÿÿÿÿ8Ù´çè1J$16f91df3-ee37-461d-a1bb-80acba8e4531
+
+java:S5361'"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ñïçûÿÿÿÿ8Ù´çè1J$2ea846be-82cc-4d9e-b71e-03f4e114f919
+
+java:S5361("HReplace this call to "replaceAll()" by a call to the "replace()" method.(«´ÿùÿÿÿÿ8Ù´çè1J$5f7d3139-bddb-446b-b053-b52bb105a503
+Š
+java:S5361)"HReplace this call to "replaceAll()" by a call to the "replace()" method.(»÷ùC8Ù´çè1J$e91728a1-40c1-4039-bfe8-63162a39cfe6
+‹
+java:S5361*"HReplace this call to "replaceAll()" by a call to the "replace()" method.(—úÔ8Ú´çè1J$1235ebb4-edc5-4ba2-b5b0-06b8eda65d68
+
+java:S5361+"HReplace this call to "replaceAll()" by a call to the "replace()" method.(šı¬ğûÿÿÿÿ8Ú´çè1J$641bdd7a-4791-447f-9fa8-9310290fc146
+}
+java:S1161;":Add the "@Override" annotation above this method signature(ùòÍª8ß´çè1J$2026343f-863a-47b1-b22e-3aaa77af3fcf
+r	java:S106K"+Replace this use of System.err by a logger.(£¬×ûÿÿÿÿ8ç´çè1J$e2c38bb3-ff55-4064-94ef-dfc8eced67da
+n
+java:S1874N"+Remove this use of "Job"; it is deprecated.(ÆĞ¨´8ê´çè1J$92f2f944-e883-4bfc-a447-cc137823df1b
